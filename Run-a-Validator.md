@@ -1,4 +1,4 @@
-# 0G-DA-Node Upgrade Install Guide
+# Story Validator Install Guide
 
 ## System Requirements
 | Category | Requirements |
